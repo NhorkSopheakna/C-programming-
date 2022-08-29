@@ -1,5 +1,5 @@
-ឈាង ឆាយអុី- Chheang Chhayi
-15 #include <stdio.h>
+
+#include <stdio.h>
 
 int main(){
     
